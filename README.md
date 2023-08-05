@@ -1,6 +1,6 @@
 
 
-<h1>There is my practical experience of testing web pages. You can view a small part of my checklists, test cases, and bug reports here.</h1>
+<h2>There is my practical experience of testing web pages. You can view a small part of my checklists, test cases, and bug reports here.</h2>
 <br>
 <h3>Project "Travel"</h3>
 <details>
