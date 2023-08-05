@@ -1,5 +1,8 @@
-<h4>There is my practical experience of testing web pages. You can view a small part of my checklists, test cases, and bug reports here. </h4>
 
+
+<h1>There is my practical experience of testing web pages. You can view a small part of my checklists, test cases, and bug reports here.</h1>
+<br>
+<h3>Project "Travel"</h3>
 <details>
     <summary>1.Testing the Egypt travel page using test cases</summary>
   <br>
@@ -57,7 +60,12 @@
     <img width="750" alt="image" src="https://github.com/Aleksandrkobets99/Practice-in-QAX-Camp/assets/126480322/709783ca-4bf1-473d-95b4-d1e684a697c5">
     <p>Bug report:https://github.com/scholokov/long-travel-2/issues/3811</p>
 </details>
-
+<br>
+<h3>Project "Widiq"</h3>
+<details>
+  <summary>Decomposition of site "Widiq"</summary>
+    <img width="750" alt="image" src="https://github.com/Aleksandrkobets99/Practice-in-QAX-Camp/assets/126480322/36673836-44ca-45be-9944-e5978ac1cd22)">
+  </details>
 
 
 
