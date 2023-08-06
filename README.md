@@ -65,6 +65,7 @@
 <details>
   <summary>Decomposition of site "Widiq"</summary>
     <img width="750" alt="image" src="https://github.com/Aleksandrkobets99/Practice-in-QAX-Camp/assets/126480322/36673836-44ca-45be-9944-e5978ac1cd22)">
+    <p>Decomposition: https://miro.com/app/board/uXjVM2Nw8Zo=/</p>
   </details>
 
 
