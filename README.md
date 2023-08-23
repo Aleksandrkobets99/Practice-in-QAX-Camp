@@ -67,8 +67,21 @@
     <img width="750" alt="image" src="https://github.com/Aleksandrkobets99/Practice-in-QAX-Camp/assets/126480322/36673836-44ca-45be-9944-e5978ac1cd22)">
     <p>Decomposition: https://miro.com/app/board/uXjVM2Nw8Zo=/</p>
   </details>
-
-
-
+<details>
+     <summary>Test cases</summary>
+    <img width="750" alt="image" src="https://github.com/Aleksandrkobets99/Practice-in-QAX-Camp/assets/126480322/edb713d9-273e-44d7-9fed-b8b1e9c4c5e2">
+    <img width="750" alt="image" src="https://github.com/Aleksandrkobets99/Practice-in-QAX-Camp/assets/126480322/39421687-d54f-464e-8519-9addd3a46a4d">
+    <img width="750" alt="image" src="https://github.com/Aleksandrkobets99/Practice-in-QAX-Camp/assets/126480322/2723df4b-d61a-4481-87c8-d0ed1dc3541c">
+    <img width="750" alt="image" src="https://github.com/Aleksandrkobets99/Practice-in-QAX-Camp/assets/126480322/585f3997-a151-433b-8ce6-edffaa8e92f7">
+    <img width="750" alt="image" src="https://github.com/Aleksandrkobets99/Practice-in-QAX-Camp/assets/126480322/070b37e8-bf9d-482a-8248-297db6d93523">
+    <img width="750" alt="image" src="https://github.com/Aleksandrkobets99/Practice-in-QAX-Camp/assets/126480322/83bdc36d-acd0-4d45-807b-51e6c983afc7">
+    <img width="750" alt="image" src="https://github.com/Aleksandrkobets99/Practice-in-QAX-Camp/assets/126480322/9da6ce3b-e5cd-42fa-98dd-54558bed6765">
+    <img width="750" alt="image" src="https://github.com/Aleksandrkobets99/Practice-in-QAX-Camp/assets/126480322/c80d186c-6e8a-4005-b8a0-0c7a65da009b">
+    <img width="750" alt="image" src="https://github.com/Aleksandrkobets99/Practice-in-QAX-Camp/assets/126480322/2b93dc8d-9e9f-4aa0-a11d-c7fba57503e1">
+</details>
+<details>
+    <summary>Bug reports</summary>
+    <img width="750" alt="image" src="">
+</details>
 
 
