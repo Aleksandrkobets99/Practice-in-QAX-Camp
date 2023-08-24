@@ -81,7 +81,11 @@
 </details>
 <details>
     <summary>Bug reports</summary>
-    <img width="750" alt="image" src="">
+    <img width="442" alt="image" src="https://github.com/Aleksandrkobets99/Practice-in-QAX-Camp/assets/126480322/6eee058a-e54f-458f-a4e4-4a5d70bf0207">
+    <p></p>
+    <img width="442" alt="image" src="https://github.com/Aleksandrkobets99/Practice-in-QAX-Camp/assets/126480322/8a01d108-9b53-4d47-9724-4acc453d264a">
+    <p></p>
+    <img width="442" alt="image" src="https://github.com/Aleksandrkobets99/Practice-in-QAX-Camp/assets/126480322/65009137-8583-4604-9fd8-6bfc3d2ee3a7">
 </details>
-
+ <! -- bugs: 200 219 249 -->
 
